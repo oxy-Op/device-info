@@ -7,12 +7,18 @@
 # termux-usage:
 <p> You Can Bash This Script In Termux Also Just Follow Steps Below </p>
 Steps:- Open Termux 
-  `apt upgrade && update`
+  ` apt upgrade && update `
+  
   `pkg install git`
+  
   `cd`
+  
   `ls`
+  
   `cd device-info`
+  
   `bash oxy.sh`
+  
   
 # Other Terminals 
 <i> Clone Repo and bash script </i>
