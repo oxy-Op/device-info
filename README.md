@@ -6,7 +6,8 @@
 
 # termux-usage:
 <p> You Can Bash This Script In Termux Also Just Follow Steps Below </p>
-Steps:- Open Termux 
+Steps:- <b> Open Termux , Write These Commands and Press Enter </b>
+  
   ` apt upgrade && update `
   
   `pkg install git`
